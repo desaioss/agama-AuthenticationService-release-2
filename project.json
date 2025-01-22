@@ -1,0 +1,19 @@
+{
+    "projectName": "Username_password_authentication",
+    "description": "username password base authentication flow",
+    "type": "community",
+    "author": "desaioss",
+    "version": "1.0.0",
+    "authorWebsite": "https://github.com/desaioss/agama-AuthenticationService-release-2",
+    "githubUri": "https://github.com/desaioss/agama-AuthenticationService-release-2",
+    "license": "apache-2.0",
+    "lastUpdated": "1737530354753",
+    "tags": [
+        "openid-connect"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "co.acme.password": {}
+    },
+    "name": "Username_password_authentication"
+}
